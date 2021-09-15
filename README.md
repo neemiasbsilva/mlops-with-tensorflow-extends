@@ -15,7 +15,8 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="reports/figures/tfx-components.png" alt="Logo" width="%100">
+    <img src="reports/figures/tfx-logo.png" alt="Logo" width="80" height="80">
+    <img src="reports/figures/mlops.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center"A TensorFlow Extended Approach for MLOps</h3>
   <p align="center">
